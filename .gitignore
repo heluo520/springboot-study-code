@@ -14,9 +14,10 @@ target/
 *.iml
 *.ipr
 springboot-extend/**/.gitignore
-custom-thread-pool-spring-boot-starter/**/.gitignore
-/springboot-test
+custom-thread-pool-spring-boot-starter/.gitignore
+/springboot-test/**
 
+*/.gitignore
 
 
 ### Eclipse ###

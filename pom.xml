@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>springboot-extend</module>
+        <module>springboot-test</module>
+        <module>custom-thread-pool-spring-boot-starter</module>
     </modules>
 
     <properties>
