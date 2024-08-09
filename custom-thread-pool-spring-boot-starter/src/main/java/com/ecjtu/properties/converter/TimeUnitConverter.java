@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
  * @Description: 类型转换器
  */
 @Component
-@ConfigurationPropertiesBinding
+@ConfigurationPropertiesBinding//声明注册此转换器
 public class TimeUnitConverter implements Converter<String, TimeUnit> {
     @Override
     public TimeUnit convert(String source) {
