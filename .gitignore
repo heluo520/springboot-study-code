@@ -16,8 +16,8 @@ target/
 springboot-extend/**/.gitignore
 custom-thread-pool-spring-boot-starter/.gitignore
 /springboot-test/**
-
 */.gitignore
+*/**/.gitignore
 
 
 ### Eclipse ###

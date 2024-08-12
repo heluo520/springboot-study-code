@@ -1,0 +1,10 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    virtual-host: /
+    username: guest
+    password: guest
+    publisher-returns: true # 开启消息回退模式
+    publisher-confirm-type: correlated # 开启消息确认模式
+
