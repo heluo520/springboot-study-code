@@ -1,0 +1,5 @@
+jwt:
+  ttl: 5
+  secretKey: holo
+  issuer: holo
+  tokenName: token

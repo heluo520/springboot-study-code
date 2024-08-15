@@ -13,6 +13,7 @@ target/
 *.iws
 *.iml
 *.ipr
+spring-boot-security/src/test/java/
 springboot-extend/**/.gitignore
 custom-thread-pool-spring-boot-starter/.gitignore
 /springboot-test/**
